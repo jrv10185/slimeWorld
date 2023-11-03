@@ -1,0 +1,7 @@
+Put a side panel showing permanent commands
+            1. My team
+            2. Inventory
+            3. Save and Exit
+            4. 
+
+The command listener is ready, so I think the next step should be building out a slime class.

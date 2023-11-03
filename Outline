@@ -1,0 +1,39 @@
+You are the sole survivor of your slime farm being raided, your family and business have been put to the torch. You have 1 slime left to partner with you to try and regain your life.
+
+Systems:
+Your farm starts out destroyed, as the character levels up, new functionality becomes available.
+Farm functionality: Store number of slimes (increasing)
+                    Breed slimes
+                    Slime Appraisal (can appraise more things as it is leveled up)
+                    Sell slimes
+                    buy inventory
+                    Ascendsion
+                    Train slimes
+                    Duel Slimes
+                    Rest (restore mp / hp / status affects)
+
+The player will have inventory
+
+Slimes will do the fighting, but will only be able to 'hold' one object
+
+There needs to be a fast travel (using a item) option between towns / cities / farm
+
+There will be dungeons, mostly generic, some to grind out items. 
+
+SLIMES:
+They will have independant levels, with a xp system
+They can evolve (some using items, mostly through leveling)
+They can be bred to generate another Slime in either mom / dad family
+They need to be male / female
+They need skills (max equipped 4) - they learn through items / leveling
+They need classes
+
+They need attributes (Atk, Def, HP, MP)
+
+ENEMIES:
+other slimes, other animals, humans
+
+Battle system:
+fight, skill, item, wait, switch out
+
+1v1 fights only, but can be against lots of enemies
