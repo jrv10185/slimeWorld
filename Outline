@@ -7,7 +7,6 @@ Farm functionality: Store number of slimes (increasing)
                     Slime Appraisal (can appraise more things as it is leveled up)
                     Sell slimes
                     buy inventory
-                    Ascendsion
                     Train slimes
                     Duel Slimes
                     Rest (restore mp / hp / status affects)
@@ -23,7 +22,7 @@ There will be dungeons, mostly generic, some to grind out items.
 SLIMES:
 They will have independant levels, with a xp system
 They can evolve (some using items, mostly through leveling)
-They can be bred to generate another Slime in either mom / dad family
+They can be bred to generate another Slime 
 They need to be male / female
 They need skills (max equipped 4) - they learn through items / leveling
 They need classes
