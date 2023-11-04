@@ -4,3 +4,7 @@ I have built out a randomGenerator for Slimes and it works.
 I have built out a levelUp function
     Need to add a way to add skills
 
+Save things to cookies
+read cookies
+
+The prompts js has the code to read the permanent commands outlined, just need to fill in the work. 

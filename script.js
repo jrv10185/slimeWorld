@@ -26,6 +26,8 @@ function submitCommand() {
     var newPrompt = getPrompt(prompt,gameContainer.textContent);
     gameContainer.textContent ='';
     typeText(newPrompt);
+    console.log("pre game state: "+prevGameState);
+    console.log("Game State: "+gameState)
 }
 
 function typeText(text){
